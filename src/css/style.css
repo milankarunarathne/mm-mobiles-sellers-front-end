@@ -1,0 +1,16 @@
+.red{
+	background: red;
+}
+
+.blue{
+	background: blue;
+}
+
+.green{
+	background: green;
+}
+
+.product_image{
+	width: 100%;
+	height: 120px !important;
+}
